@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Prisma, GraphQL, Python**
 
-- 📫 How to reach me **matiasmachulini@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/matias-machulini/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
