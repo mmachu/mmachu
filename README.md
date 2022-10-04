@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills as a web developer**
 
-- 🌱 I’m currently learning **Prisma, GraphQL, Python**
+- 🌱 I’m currently learning **Prisma, GraphQL, Python, SolidJS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/matias-machulini/**
 
